@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#root{
+    width: 100vh;
+    height: 100vh;
+    padding: 100px;
+}
+
+.container{
+    width: 800px;
+    height: 800px;
+    border: 2px solid;
+    display: grid;
+    margin: auto;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+}
